@@ -1,4 +1,4 @@
-# nlw eSposts
+# NLW eSposts
 
 ![preview](https://user-images.githubusercontent.com/31770983/190722527-76ad3d3d-b003-4fb1-b632-8876faee5d7f.png)
 
