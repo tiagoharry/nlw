@@ -38,18 +38,21 @@ ul{
 }
 
 .game-list img{
-    width: 90px;  
+    width: 70px;  
     border-radius: 8px;
 }
 
 .channel-list img{
     width: 70px;
+    height: 70px;  
     border-radius: 50%;
     border: 1px solid #443E54;
+    object-fit: cover;
+    
 }
 
 body{
-    background-image: url(./images/Fundo.jpg);
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -75,10 +78,6 @@ section{
     border-radius: 10px;
     padding-top: 4px;
     animation: fromBottom .7s backwards;
-}
-
-main section{
-    
 }
 
 main section:nth-child(1){
@@ -115,6 +114,22 @@ section h2{
 section p{  
     letter-spacing: -0.18px;
     color: #A1A1AA;
+}
+
+a{
+    font-size: 32px;
+}
+
+.git{
+    color: black;
+}
+
+.fa-linkedin{
+    color: rgb(57, 57, 240);
+}
+
+.fa-instagram{
+    color: rgb(246, 92, 117);
 }
 
 /*animação*/
